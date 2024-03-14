@@ -1,12 +1,4 @@
-  .header-image {
-    position:absolute;
-    top: 0;
-    left: 0; 
-    width: 8%; 
-    height: auto;
-  }
-
-.cinema-studios-header {
+  .cinema-studios-header {
     background-color: #1f1e1e;
     color: #fff;
     padding: 20px;

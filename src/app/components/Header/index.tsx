@@ -4,7 +4,6 @@ const Header = () => {
     return(
         <>
         <header className="cinema-studios-header">
-        <img src="/logo.png" className="header-image"></img>
         <h1 className="header-title">CINEMA STUDIOS</h1>
         <h2 className="header-subtitle">Os melhores filmes estão aqui</h2>
         </header>
